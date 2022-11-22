@@ -1,0 +1,20 @@
+{
+  "name": "ecma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfelipe2099/ecma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfelipe2099/ecma/issues"
+  },
+  "homepage": "https://github.com/juanfelipe2099/ecma#readme"
+}
