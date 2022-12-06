@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/juanfelipe2099/ecma/issues"
   },
-  "homepage": "https://github.com/juanfelipe2099/ecma#readme"
+  "homepage": "https://github.com/juanfelipe2099/ecma#readme",
+  "type": "module"
 }
